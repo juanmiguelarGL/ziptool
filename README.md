@@ -34,4 +34,4 @@
 2. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ziptool.git
+   git clone https://github.com/juanmiguelarGL/ziptool.git
